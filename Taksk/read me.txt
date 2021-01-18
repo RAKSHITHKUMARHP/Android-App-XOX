@@ -1,0 +1,14 @@
+Note : *This app is developed using Android Studio.
+
+       * No database is used.    
+         
+       * Fornt end : XML and Java
+
+       *I dont have GitHub account so i provided my drive for source code
+       Link Source code  : https://drive.google.com/drive/u/0/folders/1PlvXAmdXlU9o5mt5u_c9KVitFCydK633
+
+About Me : 
+
+Name       : Rakshith Kumar
+Contact me : 8123481040
+gmail      : rakshithkumahp@gmail.com
